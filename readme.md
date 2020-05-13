@@ -1,4 +1,4 @@
-# My language for strings and little bit for a numbers :)
+# Strings and little bit for a numbers
 
 How to install
 
@@ -9,5 +9,3 @@ How to install
 How to  run
   - run Main.java (it must parse Test.txt file into java program)
   - run Output.java (to check that test file was parsed into correct java program)
-
-# Enjoy!
