@@ -1,0 +1,23 @@
+program
+start
+
+int a = 1;
+String yes = "caseOne";
+String str = "caseTwo";
+String def = "defaultCase";
+
+switch yes:
+case "caseOne": print(yes);
+endcase
+case "caseONO": print(str);
+endcase
+default: print(def);
+endcase
+endswitch
+
+[
+int b = 10;
+print(b);
+]
+
+finish
